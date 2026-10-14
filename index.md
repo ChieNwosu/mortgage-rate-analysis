@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# QuantPath Mortgage Rate Intelligence Stack
+# Mortgage Rate Analysis: Financial Modeling & Time-Series Research
 
 **Phase 1 Deliverable:** Rate Shock Loan Affordability & Refinance Dashboard in Excel
 
@@ -11,9 +11,9 @@ title: Home
 
 ## Overview
 
-The **QuantPath Mortgage Rate Intelligence Stack** is a multi-phase financial analytics project that transforms mortgage rate data into actionable borrower insights. Phase 1 delivers a production-ready Excel workbook that models loan affordability, payment sensitivity, lifetime interest costs, amortization schedules, and refinance decision support.
+This is an independent financial analytics case study that transforms historical U.S. mortgage rate data into actionable borrower insights. Phase 1 delivers a production-ready Excel workbook that models loan affordability, payment sensitivity, lifetime interest costs, amortization schedules, and refinance decision support.
 
-This project connects applied Excel-based analytics, financial modeling, and R-focused learning from IBM's Data Analytics with Excel and R Professional Certificate (Coursera) with my broader QuantPath analytics portfolio.
+This project connects applied Excel-based analytics and financial modeling with R-focused learning from IBM's Data Analytics with Excel and R Professional Certificate (Coursera).
 
 > **Note:** The IBM certificate connection represents applied learning — not a completed IBM capstone project.
 
@@ -218,7 +218,7 @@ The `Dashboard` worksheet displays:
 
 ## Phase 2 Roadmap: R-Based Time-Series Analysis
 
-Phase 2 will extend the Excel foundation with an **R-based time-series analysis layer** connecting to Applied Time Series Analysis coursework at NCCU and IBM's Data Analytics with Excel and R Professional Certificate learning path.
+Phase 2 will extend the Excel foundation with an **R-based time-series analysis layer** connecting to Applied Time Series Analysis coursework at NCCU and IBM's Data Analytics with Excel and R Professional Certificate (Coursera) learning path.
 
 ### Planned Focus Areas
 - Stationarity testing (ADF, KPSS)
@@ -294,7 +294,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 For questions, feedback, or collaboration opportunities:
 - **Email:** JosephCNwosu@yahoo.com
-- **GitHub Issues:** [Open an issue](https://github.com/ChieNwosu/quantpath-mortgage-rate-intelligence/issues)
+- **GitHub Issues:** [Open an issue](https://github.com/ChieNwosu/mortgage-rate-analysis/issues)
 
 ---
 

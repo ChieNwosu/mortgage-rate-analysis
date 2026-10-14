@@ -1,6 +1,6 @@
-# QuantPath Mortgage Rate Intelligence Stack — Roadmap
+# Mortgage Rate Analysis — Project Roadmap
 
-This document outlines the multi-phase roadmap for the QuantPath Mortgage Rate Intelligence Stack, from the completed Phase 1 Excel workbook through planned future phases.
+This document outlines the multi-phase roadmap for the Mortgage Rate Analysis case study, from the completed Phase 1 Excel workbook through planned future phases.
 
 ---
 
@@ -150,7 +150,7 @@ The following are ideas for future development. They are **not scoped, not sched
 
 ## Academic & Certificate Context
 
-This project is part of the **QuantPath** portfolio — a series of financial analytics projects connecting academic coursework, professional certificate learning, real-world datasets, and modern data tooling.
+This project is part of an independent financial analytics case study connecting academic coursework, professional certificate learning, real-world datasets, and modern data tooling.
 
 - **Phase 1** connects to applied Excel-based analytics and financial modeling.
 - **Phase 2** connects to Applied Time Series Analysis coursework at NCCU and IBM's Data Analytics with Excel and R Professional Certificate (Coursera).
@@ -177,4 +177,4 @@ This project is designed to grow incrementally, with each phase building on the 
 **Institution**: North Carolina Central University (NCCU)  
 **Program**: Information Technology, concentration in Data Analytics  
 **GitHub**: [ChieNwosu](https://github.com/ChieNwosu)  
-**Project Repository**: [quantpath-mortgage-rate-intelligence](https://github.com/ChieNwosu/quantpath-mortgage-rate-intelligence)
+**Project Repository**: [mortgage-rate-analysis](https://github.com/ChieNwosu/mortgage-rate-analysis)
