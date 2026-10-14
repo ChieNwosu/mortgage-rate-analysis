@@ -1,6 +1,6 @@
 # Data
 
-This folder contains the raw mortgage rate dataset used in Phase 1 of the QuantPath Mortgage Rate Intelligence Stack.
+This folder contains the raw mortgage rate dataset used in Phase 1 of the Mortgage Rate Analysis case study.
 
 ---
 

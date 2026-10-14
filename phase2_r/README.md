@@ -108,7 +108,7 @@ The goal is to apply time-series concepts from both programs to a real financial
 
 ## Status Disclaimer
 
-**This phase is planned but not yet implemented.** This folder is a placeholder to signal the multi-phase vision of the QuantPath Mortgage Rate Intelligence Stack. All content in this README is aspirational and subject to change based on coursework requirements, technical constraints, and portfolio priorities.
+**This phase is planned but not yet implemented.** This folder is a placeholder to signal the multi-phase vision of this financial analytics case study. All content in this README is aspirational and subject to change based on coursework requirements, technical constraints, and portfolio priorities.
 
 ---
 

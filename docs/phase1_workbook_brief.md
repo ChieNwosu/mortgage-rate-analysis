@@ -1,6 +1,6 @@
 # Phase 1 Workbook Brief
 
-**Project**: QuantPath Mortgage Rate Intelligence Stack  
+**Project**: Mortgage Rate Analysis: Financial Modeling & Time-Series Research  
 **Phase**: Phase 1 — Excel Financial Modeling & Dashboard  
 **Status**: ✅ Complete  
 **Workbook**: `Rate_Shock_Loan_Affordability_Refinance_Dashboard.xlsx`

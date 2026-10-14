@@ -1,10 +1,10 @@
 # GitHub Pages Configuration
-# Project Site: https://ChieNwosu.github.io/quantpath-mortgage-rate-intelligence/
+# Project Site: https://ChieNwosu.github.io/mortgage-rate-analysis/
 
-title: "QuantPath Mortgage Rate Intelligence Stack"
-description: "Phase 1 — Rate Shock Loan Affordability & Refinance Dashboard in Excel"
-author: "Chen Wosu"
-baseurl: "/quantpath-mortgage-rate-intelligence"
+title: "Mortgage Rate Analysis: Financial Modeling & Time-Series Research"
+description: "Independent Financial Analytics Case Study — Rate Shock, Affordability, Amortization & Refinance Modeling in Excel"
+author: "Chiemela Joseph Nwosu"
+baseurl: "/mortgage-rate-analysis"
 url: "https://ChieNwosu.github.io"
 
 # Theme

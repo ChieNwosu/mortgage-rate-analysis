@@ -92,7 +92,7 @@ ORDER BY date;
 
 ## Status Disclaimer
 
-**This phase is planned but not yet implemented.** This folder is a placeholder to signal the multi-phase vision of the QuantPath Mortgage Rate Intelligence Stack.
+**This phase is planned but not yet implemented.** This folder is a placeholder to signal the multi-phase vision of this financial analytics case study.
 
 All content in this README is aspirational and subject to change based on coursework requirements, technical constraints, and portfolio priorities. Cloud platform decisions, cost analysis, and architecture diagrams will be developed when this phase is actively scoped.
 
